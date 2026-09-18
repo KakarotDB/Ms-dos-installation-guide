@@ -1,3 +1,9 @@
-title: "Installing MS-DOS on Oracle VirtualBox"
-description: "A step-by-step beginner guide with screenshots."
-theme: minima
+title: "8086 Assembly Setup"
+description: "Guide to install MS-DOS on VirtualBox for 8086 Assembly."
+
+# Enable Just the Docs theme
+remote_theme: just-the-docs/just-the-docs
+
+# Enable sidebar search and color theme
+color_scheme: dark # Options: light, dark, dim
+search_enabled: true
