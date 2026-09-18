@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MS-DOS VirtualBox Guide"
+nav_order: 1
+has_toc: true # Automatically adds a table of contents to the sidebar/page
+---
+
 # Guide to Install MSDOS for writing 8086 assembly programs in virtual box
 
 ## Step 0: Install Virtual box
